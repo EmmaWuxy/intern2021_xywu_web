@@ -1,2 +1,2 @@
-var myName = 'Beau';
+var myName = 'Bleu';
 console.log(myName);
