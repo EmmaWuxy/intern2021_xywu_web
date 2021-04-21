@@ -11,3 +11,7 @@ console.log(multiple);
 //Auto convertion from number to string
 let front = 'Front' + 242;
 console.log(front);
+
+//Convert a string with wrong format to a number, get NaN
+let wrongformat = '3+';
+console.log(Number(wrongformat));
