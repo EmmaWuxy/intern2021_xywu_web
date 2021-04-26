@@ -22,6 +22,11 @@ let small = 'small'
 console.log(small.toUpperCase());
 
 // Updating parts of a string
-newString = browserType.replace('moz','van');
-console.log(browserType);
+// replace only the first occurance
+let alphabet = 'abcdefgab'
+newString = alphabet.replace('a','ooo');
 console.log(newString);
+
+//replace all occurances: global replacement
+newString1 = alphabet.replace(/a/g,'ooo')
+console.log(newString1);

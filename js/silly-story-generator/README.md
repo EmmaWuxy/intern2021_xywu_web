@@ -1,0 +1,1 @@
+This is a practice refering on js string and array manipulation, refering to https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator
